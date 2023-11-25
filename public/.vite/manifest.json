@@ -1,0 +1,10 @@
+{
+  "resources/main.js": {
+    "css": [
+      "build/main-7oqrI0HF.css"
+    ],
+    "file": "build/main-jSwA_ol5.js",
+    "isEntry": true,
+    "src": "resources/main.js"
+  }
+}
